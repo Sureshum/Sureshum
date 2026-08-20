@@ -15,30 +15,29 @@
 
 ### About Me
 
-**A Page That Represent Me:** [https://ssshum12.neocities.org](https://ssshum12.neocities.org)
+**A Page That Represent Me:** https://ssshum12.neocities.org
 
-```json
-{
-  "name": "Sebastian Shum",
-  "alias": "Shum",
-  "location": "Venezuela 🇻🇪",
-  "education": "Computer Engineering Student",
-  "current_focus": [
-    "Mobile App Development with Kotlin",
-    "Backend Architecture with NestJS & TypeScript",
-    "Desktop Applications with Electron",
-    "Web Page Creation"
-  ],
-  "interests": [
-    "Building full-stack & cross-platform applications",
-    "Gaming",
-    "Basketball"
-  ]
-}
+* **Name:** Sebastian Shum
+* **Alias:** Shum
+* **Location:** Venezuela 🇻🇪
+* **Education:** Computer Engineering Student
 
-📱 Currently working on: Mobile apps in Kotlin and web/desktop platforms.
+* **Current Focus:**
+  * Mobile App Development with Kotlin
+  * Backend Architecture with NestJS & TypeScript
+  * Desktop Applications with Electron
+  * Web Page Creation
 
-🛠 Learning: NestJS, TypeORM, Kotlin, React, Html, and more.
+* **Interests:**
+  * Building full-stack & cross-platform applications
+  * Gaming
+  * Basketball
+
+<br/>
+
+📱 **Currently working on:** Mobile apps in Kotlin and web/desktop platforms.
+
+🛠 **Learning:** NestJS, TypeORM, Kotlin, React, HTML, and more.
 
 ![Followers](https://img.shields.io/github/followers/Sureshum?style=for-the-badge&logo=github&color=181717)
 ![Profile Views](https://komarev.com/ghpvc/?username=Sureshum&style=for-the-badge&color=blue)
