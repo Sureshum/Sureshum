@@ -10,8 +10,7 @@
 
 <br/>
 
-<!-- Banner / Imagen principal (puedes cambiar esta URL por un GIF de anime que te guste) -->
-<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFlNWNzaW8wdzByZXAydWhza3Rrc2dyOTVrcndsbWV5cjhrcDVvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u499eUj43m/giphy.gif" width="100%" max-width="700px" alt="Banner](https://media1.tenor.com/m/bPyHJ28T24YAAAAC/teto-stupid.gif)"/>
+<img src="[[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFlNWNzaW8wdzByZXAydWhza3Rrc2dyOTVrcndsbWV5cjhrcDVvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u499eUj43m/giphy.gif" width="100%" max-width="700px" alt="Banner](https://media1.tenor.com/m/bPyHJ28T24YAAAAC/teto-stupid.gif)](https://media1.tenor.com/m/bPyHJ28T24YAAAAC/teto-stupid.gif)"/>
 
 </div>
 
