@@ -2,7 +2,6 @@
 <a href="https://github.com/Sureshum">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=E61C5D&customColorList=4A0A1C,E61C5D&height=220&section=header&text=Sebastian%20Shum&fontSize=50&fontAlignY=35&desc=Software%20Developer&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 </a>
-# Sebastian Shum
 
 💻 **Computer Engineering Student**
 
@@ -14,7 +13,10 @@
 
 ---
 
-### < /> About Me
+### About Me
+
+A Page That Represent Me
+https://ssshum12.neocities.org
 
 name: Sebastian Shum
 alias: Shum
