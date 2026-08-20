@@ -44,7 +44,7 @@
   <br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=300&color=E61C5D&center=true&vCenter=true&width=500&lines=LOLOLOLOLOL;LMAO;EN+PLAN;TIO;XD;%3Av;BRUH;XDXDXDDXDD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=200&color=E61C5D&center=true&vCenter=true&width=700&lines=LOLOLOLOLOL;LMAO;EN+PLAN;HOLY ###;TIO;XD;%3Av;BRUH;XDXDXDDXDD" alt="Typing SVG" />
   </a>
   <br/><br/>
   <img src=https://media.tenor.com/JHxjp803YMUAAAAi/hololive.gif width="25%"/>
