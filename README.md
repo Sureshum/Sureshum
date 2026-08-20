@@ -39,6 +39,18 @@
 
 🛠 **Learning:** NestJS, TypeORM, Kotlin, React, HTML, and more.
 
+<div align="center">
+
+  <br/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=300&color=E61C5D&center=true&vCenter=true&width=500&lines=LOLOLOLOLOL;LMAO;EN+PLAN;TIO;XD;%3Av;BRUH;XDXDXDDXDD" alt="Typing SVG" />
+  </a>
+  <br/><br/>
+  <img src=https://media.tenor.com/JHxjp803YMUAAAAi/hololive.gif width="25%"/>
+
+</div>
+
 ![Followers](https://img.shields.io/github/followers/Sureshum?style=for-the-badge&logo=github&color=181717)
 ![Profile Views](https://komarev.com/ghpvc/?username=Sureshum&style=for-the-badge&color=blue)
 
