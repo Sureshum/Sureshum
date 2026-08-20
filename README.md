@@ -1,10 +1,6 @@
 <div align="center">
 
 # Sebastian Shum
-### Software Developer | Tech Enthusiast
-
-![Followers](https://img.shields.io/github/followers/Sureshum?style=for-the-badge&logo=github&color=181717)
-![Profile Views](https://komarev.com/ghpvc/?username=Sureshum&style=for-the-badge&color=blue)
 
 💻 **Computer Engineering Student**
 
@@ -40,4 +36,6 @@
 
 🛠 Learning: NestJS, TypeORM, Kotlin, React, Html, and more.
 
+![Followers](https://img.shields.io/github/followers/Sureshum?style=for-the-badge&logo=github&color=181717)
+![Profile Views](https://komarev.com/ghpvc/?username=Sureshum&style=for-the-badge&color=blue)
 
