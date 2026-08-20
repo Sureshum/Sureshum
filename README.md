@@ -15,23 +15,26 @@
 
 ### About Me
 
-A Page That Represent Me
-https://ssshum12.neocities.org
+**A Page That Represent Me:** [https://ssshum12.neocities.org](https://ssshum12.neocities.org)
 
-name: Sebastian Shum
-alias: Shum
-location: Venezuela 🇻🇪
-education: Computer Engineering Student
-current_focus:
-Mobile App Development with Kotlin
-Backend Architecture with NestJS & TypeScript
-Desktop Applications with Electron
-Web Page Creatioin
-
-interests: 
-Building full-stack & cross-platform applications
-Gaming 
-basketball
+```json
+{
+  "name": "Sebastian Shum",
+  "alias": "Shum",
+  "location": "Venezuela 🇻🇪",
+  "education": "Computer Engineering Student",
+  "current_focus": [
+    "Mobile App Development with Kotlin",
+    "Backend Architecture with NestJS & TypeScript",
+    "Desktop Applications with Electron",
+    "Web Page Creation"
+  ],
+  "interests": [
+    "Building full-stack & cross-platform applications",
+    "Gaming",
+    "Basketball"
+  ]
+}
 
 📱 Currently working on: Mobile apps in Kotlin and web/desktop platforms.
 
