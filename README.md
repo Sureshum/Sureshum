@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/Sureshum">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E61C5D&customColorList=4A0A1C,E61C5D&height=220&section=header&text=Sebastian%20Shum&fontSize=50&fontAlignY=35&desc=Software%20Developer%20|%20Tech%20Enthusiast&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E61C5D&customColorList=4A0A1C,E61C5D&height=220&section=header&text=Sebastian%20Shum&fontSize=50&fontAlignY=35&desc=Software%20Developer&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 </a>
 # Sebastian Shum
 
@@ -16,23 +16,20 @@
 
 ### < /> About Me
 
-```json
-{
-  "name": "Sebastian Shum",
-  "alias": "shum",
-  "location": "Venezuela 🇻🇪",
-  "education": "Computer Engineering Student",
-  "current_focus": [
-    "Mobile App Development with Kotlin",
-    "Backend Architecture with NestJS & TypeScript",
-    "Desktop Applications with Electron",
-    "Web Page Creatioin"
-  ],
-  "interests": [
-    "Building full-stack & cross-platform applications",
-    "Gaming & Anime"
-  ],
-}
+name: Sebastian Shum
+alias: Shum
+location: Venezuela 🇻🇪
+education: Computer Engineering Student
+current_focus:
+Mobile App Development with Kotlin
+Backend Architecture with NestJS & TypeScript
+Desktop Applications with Electron
+Web Page Creatioin
+
+interests: 
+Building full-stack & cross-platform applications
+Gaming 
+basketball
 
 📱 Currently working on: Mobile apps in Kotlin and web/desktop platforms.
 
