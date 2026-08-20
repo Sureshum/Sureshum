@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Banner / Imagen principal (puedes cambiar esta URL por un GIF de anime que te guste) -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFlNWNzaW8wdzByZXAydWhza3Rrc2dyOTVrcndsbWV5cjhrcDVvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u499eUj43m/giphy.gif" width="100%" max-width="700px" alt="Banner"/>
+<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFlNWNzaW8wdzByZXAydWhza3Rrc2dyOTVrcndsbWV5cjhrcDVvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u499eUj43m/giphy.gif" width="100%" max-width="700px" alt="Banner](https://media1.tenor.com/m/bPyHJ28T24YAAAAC/teto-stupid.gif)"/>
 
 </div>
 
@@ -22,37 +22,23 @@
 ```json
 {
   "name": "Sebastian Shum",
-  "alias": "pilinsum",
+  "alias": "shum",
   "location": "Venezuela 🇻🇪",
   "education": "Computer Engineering Student",
   "current_focus": [
-    "Mobile App Development with Kotlin & Jetpack Compose",
+    "Mobile App Development with Kotlin",
     "Backend Architecture with NestJS & TypeScript",
-    "Desktop Applications with Electron"
+    "Desktop Applications with Electron",
+    "Web Page Creatioin"
   ],
   "interests": [
     "Building full-stack & cross-platform applications",
-    "UI/UX Prototyping on Figma",
-    "Database optimization (SQLite, TypeORM)",
     "Gaming & Anime"
   ],
-  "fun_fact": "If you can imagine it, you can program it"
 }
 
 📱 Currently working on: Mobile apps in Kotlin and web/desktop platforms.
 
-🛠 Learning: NestJS, TypeORM, Jetpack Compose, and advanced desktop architectures.
+🛠 Learning: NestJS, TypeORM, Kotlin, React, Html, and more.
 
-🤝 Looking to collaborate on: Open source projects, Python tools, and backend services.
 
-💬 Ask me about: Android development, SQLite, TypeScript, or game setups.
-
-< /> Tech Stack
-🎨 Frontend & Design
-⚙️ Backend & Systems
-🗄️ Database & Tools
-📊 GitHub Stats
-📬 Connect with Me
-"If you can imagine it, you can program it."
-
-Thank you for visiting my profile! Let's build something amazing together. 🚀
