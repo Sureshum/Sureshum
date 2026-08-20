@@ -51,6 +51,26 @@
 
 </div>
 
+### 👥 Connect with Me
+
+<a href="https://www.linkedin.com/in/sebastian-xigum-shum-fung-082500423/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/sshum12" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:ssshum25@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://op.gg/summoners/lan/pilinshum-LAN/auth/8cc6b294d76a62f51331499e8a1f2309">
+  <img src="https://img.shields.io/badge/League Of Legends-D14836?style=for-the-badge&logo=LeagueofLegends&logoColor=white" alt="League Of Legends" />
+</a>
+<a href="https://op.gg/es/valorant/profile/pilinshum-LAN" target="_blank">
+  <img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white" />
+</a>
+
+
+
 ![Followers](https://img.shields.io/github/followers/Sureshum?style=for-the-badge&logo=github&color=181717)
 ![Profile Views](https://komarev.com/ghpvc/?username=Sureshum&style=for-the-badge&color=blue)
 
