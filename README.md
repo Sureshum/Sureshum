@@ -1,5 +1,7 @@
 <div align="center">
-
+<a href="https://github.com/Sureshum">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E61C5D&height=220&section=header&text=Sebastian%20Shum&fontSize=50&fontAlignY=35&desc=Software%20Developer%20|%20Tech%20Enthusiast&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+</a>
 # Sebastian Shum
 
 💻 **Computer Engineering Student**
